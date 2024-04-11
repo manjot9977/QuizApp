@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "781843284528",
-    "project_id": "quizz-f858a",
-    "storage_bucket": "quizz-f858a.appspot.com"
+    "project_number": "598684931735",
+    "project_id": "quizzed-416b9",
+    "storage_bucket": "quizzed-416b9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:781843284528:android:88df7d07dacc7245d423f5",
+        "mobilesdk_app_id": "1:598684931735:android:ed2cdf101a2e1b2e833bd2",
         "android_client_info": {
-          "package_name": "com.example.quizzed"
+          "package_name": "com.quizmaster.quizzed"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAaH7aiO0ma3HX_tKP6OO_cXMojPC9S1bo"
+          "current_key": "AIzaSyBD5b3vwjZ1xPg7-JySvxHUEXKzrEbZ7js"
         }
       ],
       "services": {
